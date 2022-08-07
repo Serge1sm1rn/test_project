@@ -1,0 +1,3 @@
+C:\Programm\test_project\Intermediate\Build\Win64\UE4Editor\Development\test_project\Definitions.test_project.h
+C:\Programm\test_project\Source\test_project\Public\TestActor.h
+C:\Programm\test_project\Intermediate\Build\Win64\UE4Editor\Inc\test_project\TestActor.generated.h

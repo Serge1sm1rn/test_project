@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\test_project.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F8489711-4B74-4D4D-A40C-4157415DB53D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\test_project.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\test_projectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{CD9283EA-4ED1-498C-B36E-88585496FC76}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\test_project">
+      <UniqueIdentifier>{C953B1DA-31B7-4D67-8056-FFF0D978D2D0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\test_project\test_project.Build.cs">
+      <Filter>Source\test_project</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\test_project\test_project.cpp">
+      <Filter>Source\test_project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\test_project\test_project.h">
+      <Filter>Source\test_project</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\test_project\test_projectGameModeBase.cpp">
+      <Filter>Source\test_project</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\test_project\test_projectGameModeBase.h">
+      <Filter>Source\test_project</Filter>
+    </ClInclude>
+    <Filter Include="Source\test_project\Private">
+      <UniqueIdentifier>{D04D143E-29C2-4C74-8341-15B4F3FD9F14}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\test_project\Private\TestActor.cpp">
+      <Filter>Source\test_project\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\test_project\Public">
+      <UniqueIdentifier>{CB7AE41C-7199-478B-A8BD-381CC04AA0B4}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\test_project\Public\TestActor.h">
+      <Filter>Source\test_project\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Programm\\test_project\\Source\\test_project\\test_project.Build.cs",
+		"C:\\Programm\\test_project\\Source\\test_project.Target.cs",
+		"C:\\Programm\\test_project\\Source\\test_projectEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
